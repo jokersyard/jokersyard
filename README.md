@@ -1,10 +1,4 @@
-<div align="center">
-  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WuthiRu9pRUTRB0msNxBEO4YUBK7e1SSKQ&s"  />
-</div>
-
-###
-
-<h1 align="center">hey there, why so serious?</h1>
+<h1 align="center">hey there! 👋🏽 </h1>
 
 ###
 
@@ -55,6 +49,12 @@
   <a href="https://tryhackme.com/p/jokersyard" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WuthiRu9pRUTRB0msNxBEO4YUBK7e1SSKQ&s"  />
 </div>
 
 ###
