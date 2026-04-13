@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **internships.**
 
-- 👨‍💻 All of my projects are available at [jayantdev.com](jayantdev.com)
+- 👨‍💻 All of my projects are available at [jay404.in](jay404.in)
 
 - 📝 I regularly write articles on [x.com/jokersyard](x.com/jokersyard)
 
