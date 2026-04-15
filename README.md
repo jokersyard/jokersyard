@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
-<h3 align="center">A passionate developer, ethical hacker and everything computers science.</h3>
+<h3 align="center">A passionate developer, ethical hacker and everything computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jokersyard&label=Profile%20views&color=0e75b6&style=flat" alt="jokersyard" /> </p>
 
