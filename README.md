@@ -1,39 +1,66 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jay
-============================================================================================================================
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm Jay
 
-Web Developer, programmer, ethical hacker and a rookie at chess.com
--------------------------------------------------------------------
-
-I create responsive websites, UI/UX-focused projects, and practical business solutions using code and AI tools. Interested in startups, performance marketing, product design, and building systems that create real-world value. Always learning, always shipping, always improving.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [jokersyard07@proton.me](mailto:jokersyard07@proton.me)
-* 🧠  I'm currently learning advanced frontend development, UI/UX principles, AI-assisted workflows, digital marketing, automation systems, and how to build scalable online businesses from idea to execution.
-* 👥  I'm looking to collaborate on web apps, startup ideas, SaaS products, UI/UX projects, automation tools, AI-powered products, growth marketing experiments, and real-world businesses that solve meaningful problems.
-* 💬 Ask me about web development, design, startups, growth strategies, AI tools, productivity systems, or building digital products from scratch. Always interested in learning, creating, and working on ambitious ideas.
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" alt="Ethereum" title="Ethereum" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Web+Developer;Programmer;Startup+Builder;AI+Automation+Learner;Designing+Useful+Products" />
 </p>
-<a href="https://www.x.com/jokersyard" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/jokersyard?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-### Badges
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Building%20Real%20Things-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-Long%20Term%20Value-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Base-India-111111?style=for-the-badge" />
+</p>
 
-<a href="http://www.github.com/jokersyard"><img src="https://github-readme-stats.vercel.app/api?username=jokersyard&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jokersyard's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/jokersyard"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jokersyard&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## About Me
 
+* 🌍 Based in India
+* 🧠 Learning frontend systems, UI/UX, AI workflows, automation, growth
+* 🚀 Building products, startups, tools, and digital systems
+* 🤝 Open to collaboration on SaaS, web apps, AI tools, startups
+* ♟️ Rookie at chess.com
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/jokersyard" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/jokersyard" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a></p>
-### Support Me
+## Tech Stack
 
-<ul style="list-style-type: none; margin: 0;">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,docker,linux,git,github,vscode&perline=6" />
+</p>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/jokersyard"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+---
 
-</ul>
+## Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jokersyard&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jokersyard&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jokersyard&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jokersyard/jokersyard/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/jokersyard"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://x.com/jokersyard"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/jokersyard">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" />
+  </a>
+</p>
+
