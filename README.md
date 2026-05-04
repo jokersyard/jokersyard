@@ -17,7 +17,7 @@
 * 🌍 Based in India
 * 🧠 Learning frontend systems, UI/UX, AI workflows, automation, growth
 * 🚀 Building products, startups, tools, and digital systems
-* 🤝 Open to collaboration on SaaS, web apps, AI tools, startups
+* 🤝 Open to collaboration on SaaS, web apps, AI tools
 * ♟️ Rookie at chess.com
 
 ---
