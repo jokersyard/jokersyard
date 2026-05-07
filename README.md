@@ -15,7 +15,7 @@
 ## About Me
 
 * 🌍 Based in India
-* 🧠 Learning frontend systems, UI/UX, AI workflows, automation, growth
+* 🧠 Learning frontend systems, UI/UX, AI workflows, automation
 * 🚀 Building products, startups, tools, and digital systems
 * 🤝 Open to collaboration on SaaS, web apps, AI tools
 * ♟️ Rookie at chess.com
