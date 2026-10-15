@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Building%20Real%20Things-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mindset-Long%20Term%20Value-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Base-India-111111?style=for-the-badge" />
 </p>
 
 ---
